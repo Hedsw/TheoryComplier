@@ -9,8 +9,13 @@ less than 10. The email address is not case sensitive. In your program, you must
 four methods: 
 
 boolean validateEmailAddress(String emailAddress)
+
 String getLocalPart(String emailAddress)
+
 boolean isUmassdAccount(String emailAddress)
+
 boolean isGmailAccount(String emailAddress)
+
 Include a few test cases in the main method to verify that your implementation for each of the methods
+
 satisfies the above requirements.
